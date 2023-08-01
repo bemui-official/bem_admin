@@ -1,0 +1,23 @@
+.ar-card-title {
+    color: #FFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20px;
+    /* 125% */
+}
+
+
+.ar-card-container {
+    padding: 10px !important;
+    background: linear-gradient(270deg, rgba(124, 76, 207, 1) 0%, rgba(134, 82, 200, 1) 35%, rgba(144, 115, 196, 1) 100%) !important;
+    box-shadow: 0px 0.5px 5px 0px;
+    border: none !important;
+    border-radius: 20px !important;
+    margin: 0px 90px !important;
+    padding: 20px 50px !important;
+}
+
+.text-editor {
+    background: white;
+}

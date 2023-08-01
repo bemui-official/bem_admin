@@ -1,0 +1,26 @@
+.layout {
+    border-radius: 4% 0% 0% 4%;
+    background: var(--grad, linear-gradient(135deg, #6D2845 0%, #AC426E 100%));
+    min-height: 100vh;
+    padding: 70px;
+
+}
+
+.sidebar {
+    height: 100vh;
+}
+
+.sb-text {
+    color: #5E213A;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 25px;
+}
+
+.line {
+    margin: 0px 0px !important;
+}

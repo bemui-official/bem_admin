@@ -1,0 +1,35 @@
+.SignIn-container {
+    width: 100%;
+    height: 821px;
+    background: var(--grad, linear-gradient(135deg, #6D2845 0%, #AC426E 100%)) !important;
+}
+
+
+
+
+.card-title {
+    color: #FFF !important;
+    text-align: center;
+    font-weight: 700 !important;
+    font-size: 64px !important;
+    font-style: normal;
+    line-height: normal;
+    margin-bottom: 30px !important;
+}
+
+.card-text {
+    color: #FFF;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+}
+
+.card-button {
+    background: #350A79 !important;
+    border: none !important;
+
+}
+
+.card-button:hover {
+    background-color: #40118b !important;
+}
